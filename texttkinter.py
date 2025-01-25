@@ -29,6 +29,7 @@ print(s)
 print("hello")
 
 #la boucle for
+"""
 race_de_chien = ["golden retriever","chihuahua","terrier","carlin"]
 for chien in race_de_chien:
-    print(chien)
+    print(chien)"""
