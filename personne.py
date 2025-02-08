@@ -73,3 +73,4 @@ enseignant = Enseignant("Bernard", "Paul", "Mathématiques")
 print(personne.se_presenter())
 print(etudiant.se_presenter())
 print(enseignant.se_presenter())
+      
